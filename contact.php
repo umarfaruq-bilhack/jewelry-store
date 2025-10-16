@@ -2,5 +2,7 @@
 <h1>Contact Jewelry Store</h1>
 <p>We sell premium jewelry crafted with passion.</p>
 <h1>We're open 24/7</h1>
-<p>We sell premium jewelry crafted with passion.</p>
+<p>We sell premium jewelry crafted with passion.</br>
+When people work together, they can solve really big problems.
+</p>
 <?php include 'footer.php'; ?>
