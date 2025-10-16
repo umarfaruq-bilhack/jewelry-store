@@ -13,6 +13,7 @@ Endless Web3 Genesis Cloud</h1>
 <p>The Endless was founded with the vision of leveraging technological innovation to empower users with greater autonomy, ensuring data privacy and security. It aims to foster a decentralized co-creation ecosystem where users can create and fully enjoy the value they deserve in the digital world. By shifting the focus of Web3 from financial orientation to practical utility, the Endless seeks to deliver on the promise of decentralized technologies by enabling user empowerment and collaborative value creation.
 
 The core values of Endless include:</p>
-
+<h3>Security and Privacy as Foundational Elements</h3>
+<p>Endless ensures high levels of security and privacy protection for users throughout their interactions by leveraging an advanced data security and privacy architecture. This approach attracts security-conscious user groups, enhances trust in the project, and fosters deeper relationships with potential partners and investors. Endless’s data security and privacy framework relies on several key technologies: dynamic end-to-end encryption, data isolation and access control, zero-knowledge proofs, and storage security based on distributed key management and redundant encryption.</p>
 </body>
 </html>
